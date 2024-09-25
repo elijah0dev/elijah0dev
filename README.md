@@ -1,6 +1,8 @@
 # Hi there, I'm Elijah Nieves! 👋
-[<img align="left" alt="elijahnieves | LinkedIn" width="22px" src="./linkedin.svg" />](https://www.linkedin.com/in/elijah-h-nieves/)
 
+<br>
+[<img align="left" alt="elijahnieves | LinkedIn" width="22px" src="./linkedin.svg" />](https://www.linkedin.com/in/elijah-h-nieves/)
+<br>
 
 ## My Skills 🧠
 
